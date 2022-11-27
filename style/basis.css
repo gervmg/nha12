@@ -1,0 +1,187 @@
+
+body {
+  margin-left:40px;
+  width: 80%;
+}
+
+header {
+  text-align: left;
+  padding: 3px;
+  background-color: #d9d9d9;
+  color: #333333;
+}
+
+footer {
+  text-align: right;
+  padding: 3px;
+  background-color: #000066;
+  color: #b3ccff;
+}
+
+table  {
+  border: 1px solid black;
+  width: 80%;
+  background-color: #f2f2f2;
+  text-align: center;
+}
+
+td {
+  width: 20%;
+}
+
+p {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+/* rij A */
+
+#td-a1 {
+  background-color: #EB6E44;
+}
+
+#p-a1 {
+  background-color: #170803;
+  color: #EB6E44;
+}
+
+#td-a2 {
+  background-color: #C9DFEC;
+}
+
+#img-a2 {
+  width: 50%;
+  height: 50%;
+}
+
+#td-a3 {
+  background-color: #FFEF96;
+}
+
+#p-a3 {
+  background-color: #4d4100;
+  color:#FFEF96;
+}
+
+#td-a4 {
+  background-color: #848482;
+}
+
+#img-a4 {
+  width: 70%;
+  height: 70%;
+}
+
+/* rij B */
+
+#td-b1 {
+  background-color: #629460;
+}
+
+#p-b1 {
+  background-color: #e1ebe0;
+  color: #629460;
+}
+
+#td-b2 {
+  background-color: #F8DCDC;
+}
+
+#img-b2 {
+  width: 65%;
+  height: 65%;
+}
+
+#td-b3 {
+  background-color: #2B4162;
+}
+
+#p-b3 {
+  background-color: #dce4ef;
+  color: #2B4162;
+}
+
+#td-b4 {
+  background-color: #CCCCB3;
+}
+
+#img-b4 {
+  width: 65%;
+  height: 65%;
+}
+
+/* rij C */
+
+#td-c1 {
+  background-color: #D74B4B;
+}
+
+#p-c1 {
+  background-color: #f1c0c0;
+  color: #D74B4B;
+}
+
+#td-c2 {
+  background-color: #1F1F14;
+}
+
+#img-c2 {
+  width: 55%;
+  height: 55%;
+}
+
+#td-c3 {
+  background-color: #08D9D6;
+}
+
+#p-c3 {
+  background-color: #046261;
+  color: #08D9D6;
+}
+
+#td-c4 {
+  background-color: #990000;
+}
+
+#img-c4 {
+  width: 70%;
+  height: 70%;
+}
+
+/* rij D */
+
+#td-d1 {
+  background-color: #1F6ED4;
+}
+
+#p-d1 {
+  background-color: #a6c7f2;
+  color: #1F6ED4;
+}
+
+#td-d2 {
+  background-color: #FFFFCC;
+}
+
+#img-d2 {
+  width: 60%;
+  height: 60%;
+}
+
+#td-d3 {
+  background-color: #593E1A;
+}
+
+#p-d3 {
+  background-color: #e2c49c;
+  color: #593E1A;
+}
+
+#td-d4 {
+  background-color: #001433;
+}
+
+#img-d4 {
+  width: 55%;
+  height: 55%;
+}
